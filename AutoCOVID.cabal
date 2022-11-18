@@ -45,14 +45,14 @@ library
 
     hs-source-dirs:   src
 
-executable AutoPCR2
+executable AutoCOVID
     import: shared
 
     main-is:          Main.hs
 
     -- Modules included in this executable, other than Main.
     -- other-modules:
-    build-depends: AutoPCR2
+    build-depends: AutoCOVID
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
     hs-source-dirs:   app
