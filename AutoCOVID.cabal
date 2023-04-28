@@ -26,7 +26,10 @@ common shared
         -- fused-effects,
         text,
         process,
-        transformers
+        transformers,
+        split,
+        exceptions,
+        time
 
     default-extensions:
         OverloadedStrings,

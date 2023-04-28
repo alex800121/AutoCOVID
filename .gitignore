@@ -1,1 +1,7 @@
 dist-newstyle/
+AutoCOVID*/
+AutoCOVID*
+user.txt
+*.zip
+*.exe
+.vscode*/
